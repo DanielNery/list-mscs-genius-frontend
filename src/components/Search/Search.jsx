@@ -2,7 +2,7 @@ import './Search.css';
 import React, { Component } from "react";
 import axios from 'axios';
 
-const baseUrl = 'http://localhost:5000'
+const baseUrl = 'http://52.90.187.143/'
 
 const initialState = {
     search: '',
